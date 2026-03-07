@@ -1,6 +1,6 @@
 #idk but that easy to much 
 #i swear who is in my mind better than this but akhh
-user = input("how You can sepelit 'Hello world' ?: ").lower()
+user = input("how You can spelt 'Hello world' ?: ").lower()
  if user = "hello world":
     print("congratulations Honey (:")
 else:
