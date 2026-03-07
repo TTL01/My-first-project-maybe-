@@ -1,6 +1,9 @@
 
 # ********** : secret
-# two nswlo 3la 3 snad9 and kl sndo9 w bab fih chi haja w ila mktbch dakchi ga3 ngolh la : Yak almrdi hhhh
+# two nswlo 3la 3 snad9 and kl sndo9 w bab fih chi haja w ila mktbch dakchi ga3 ngolh la hh
+
+
+
 print("""
 ⠀⠀⣿⠲⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⣸⡏⠀⠀⠀⠉⠳⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -24,15 +27,18 @@ print("""
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀""" )
 print(" Welcome to my Island \n The 𝕯𝖊𝖆𝖙𝖍 is coming For You")
+
+
 x = input (" Choose one of these doors🚪 \n Red or Blue  : "). lower ()
+
+
 if x == "red":
+	
 	print(""" 
 	 You Are died ــــــــــﮩ٨ـ
 	⠀⠀⠀⠀⠀⠀⠀⣀⣤⡖⠖⠎⠍⢭⢫⣋⡋⡗⣒⠤⣀⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⣖⣯⣷⣥⣶⢪⣿⢛⡅⣇⣷⢫⡟⣰⣯⣔⡩⡑⠢⣄⠀⠀⠀
 ⠀⠀⠀⡜⢹⣯⣟⣻⢹⣏⢿⡻⡷⣫⡯⡟⣽⣷⣕⣓⡚⢙⢲⡗⡌⢧⡀⠀
-⠀⠀⢠⠷⣿⣝⣗⡿⣷⡳⣏⡏⢥⠆⡷⡖⢭⣮⣧⣬⣶⣟⣾⢬⡿⡆⣣⠃
-⠀⢀⣸⢀⢿⠟⣿⣟⡗⡣⡾⣗⢄⣛⠱⣯⣽⠟⣜⣍⢪⡽⢯⣙⣧⠄⢼⡆
 ⠀⠀⡇⣽⡻⠛⡿⠡⠭⠥⡥⣍⠒⡙⢻⣇⠛⢋⢛⣋⣋⣗⠓⠞⢛⣢⣻⢱
 ⠀⠁⡯⣿⣕⡛⠆⠀⠀⠀⠀⠈⢳⢹⡷⡏⠁⠉⢃⢟⡂⠀⠀⠀⠀⠈⢩⣸
 ⠀⢤⣋⡗⣇⣢⠀⠀⠸⣯⣢⡄⠈⢐⡇⠇⠀⠀⢆⡺⡆⢠⢻⣷⡇⠀⢱⣸
@@ -43,17 +49,17 @@ if x == "red":
 ⠀⡗⣻⢟⣻⡻⡧⣇⣶⢪⣽⣯⢯⣷⡷⣏⣝⣍⡏⣏⣃⣐⢀⣳⣽⣦⣉⢸
 ⠀⡗⣞⡍⡏⠜⢭⠙⢎⣿⣿⣟⣃⢃⣕⣹⢽⣿⠿⡿⢻⡟⠿⣯⢿⠏⠍⢰
 ⠀⡇⢚⡆⣻⠎⢂⡃⣠⢌⢓⠡⡂⡀⡦⡛⢘⡲⣋⣹⢐⢇⡷⠟⣭⠳⠣⢸
-⠀⡗⢦⡍⢷⠇⠂⠘⠸⣇⣏⢆⡴⣁⠄⣹⡏⠄⢵⢴⣂⡫⢘⣉⣰⠆⡁⢸
-⠀⡂⢯⢨⠯⠘⢒⡿⡥⣛⣡⡒⡱⣶⣂⡏⣓⡜⢖⠜⣧⣋⣽⡖⣧⡃⡂⢸
-⠀⣒⠭⢍⢃⠀⡉⡏⢗⡷⣺⡷⡎⠂⣆⡁⣒⡖⡰⣱⠧⢆⢅⣢⣟⡿⡁⢸
-⠀⣽⡇⡲⢀⣋⣇⢹⣗⣠⣌⡈⣲⣁⣆⡽⣃⣔⢅⣭⣙⣭⢞⡙⡝⠬⠄⢸
-⠒⠊⠁⡟⠨⢝⢓⢛⣤⡂⣁⠤⡉⡁⢅⠁⡡⢀⠍⣍⠡⢋⡥⣍⡈⠁⠁⢘""")
+⠀⡗⢦⡍⢷⠇⠂⠘⠸⣇⣏⢆⡴⣁⠄⣹⡏⠄⢵⢴⣂⡫⢘⣉⣰⠆⡁⢸""")
+
 elif x == "blue":
+	
 	print("""  
  Ohh congratulations You were lucky this time  ⠀""")
+	
 	print(" \n We're not finished yet, my dear... ") #bruh hhhh
-	v = input (" Choose one of these boxes\n White!🎁\n Purple!🎁 \n Green!🎁\n ").lower ()
-	if v == "white":
+	
+	box = input (" Choose one of these boxes\n White!🎁\n Purple!🎁 \n Green!🎁\n ").lower ()
+	if box == "white":
 		print("""
 		 ops spiders eat You ...
 		⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠶⡄⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -69,7 +75,7 @@ elif x == "blue":
 ⠀⠸⣇⡼⠃⠀⠀⠀⠉⠀⠀⠀⠀⠹⣤⡿⠀⢿⣠⣿⠀⠀⠀⠙⠋⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀""") 
-	elif v == "green":
+	elif box == "green":
 		print(""" ohh congratulations You survived 'Get out Now'
   	        
     .;;;;;;;;;;;;;;;;;;;,.
@@ -90,13 +96,9 @@ elif x == "blue":
             `                         ..
            `                           '
           `                           '
-         `                           '
-        `                           `
-        `                           `,
-        `
-         `
+         `                          '
            `.""")
-	elif v == "pruple":
+	elif box == "pruple":
 			print("i am tired to write something, Not now")
 	else:
 			print(" I'm fk tired Follow the instructions")
