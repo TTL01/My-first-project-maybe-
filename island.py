@@ -99,11 +99,13 @@ elif x == "blue":
          `                          '
            `.""")
 	elif box == "pruple":
-			print("i am tired to write something, Not now")
+			print("You dead again ")
 	else:
 			print(" I'm fk tired Follow the instructions")
 else :
-	print("\n  You fking stupid or what, just follow the fucking instructions\n\n") 
+	print("\nBruh, just follow the fucking instructions \n") 
+
+input("Entre any Key to exit .....")
  
 
 
